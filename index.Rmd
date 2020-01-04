@@ -1,0 +1,39 @@
+---
+title: "Analemma for Halifax, Nova Scotia"
+author: "Dan Kelley"
+date: '2020-01-04'
+---
+
+At the bottom of this webpage is an analemma diagram for Halifax, Nova
+Scotia. The red rotated-infinity shape shows the position of the sun at local
+noon, over the course of a year. The red dot shows the noontime value at the
+day indicated in the top-right corner of the plot.  Also shown, in orange, is
+the trace of the sun on that day, labelled by hours in a 24-hour clock.  All
+times are in standard local time for Halifax, which is GMT minus 4 hours.
+
+The centre of the diagram is the zenith, i.e. directly overhead. Rings
+indicate the angle above the horizon. The outside of the diagram represents the
+horizon, with North, etc. indicated, and dotted radial lines in 10-degree
+increments.  North is at the top of the circle, East at the right-hand side,
+etc.
+
+R code to create this graph and others like it is provided in an R script named
+`analemma.R` that may be found at https://github.com/dankelley/analemma,
+along with related items.
+
+Please contact me at dan.kelley@dal.ca, to suggest alterations to the plot
+style or domain, or to suggest any other improvements to this website.
+
+Here are some other links that may be of interest:
+
+* http://dankelley.github.io/r/2013/12/27/analemma.html is blog item relating
+to the methods used here.
+
+* http://emit.phys.ocean.dal.ca/~kelley/sunmoon shows the paths of the sun and
+moon through the sky at Halifax.
+
+* http://emit.phys.ocean.dal.ca/~kelley/sunrise_angle shows sun-glare maps for Halifax.
+
+analemma.png
+
+
